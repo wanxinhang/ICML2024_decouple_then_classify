@@ -6,5 +6,8 @@ dataset_doc.txt: document the trainging process of each dataset. for instance:te
 
 datasets.txt: preserve the average and std results  (our results and the results merely utilizing shared/specific information)
 
+
+@inproceedings{wan2024decouple, title={Decouple then Classify: A Dynamic Multi-view Labeling Strategy with Shared and Specific Information}, author={Wan, Xinhang and Liu, Jiyuan and Liu, Xinwang and Wen, Yi and Yu, Hao and Wang, Siwei and Yu, Shengju and Wan, Tianjiao and Wang, Jun and Zhu, En}, booktitle={Forty-first International Conference on Machine Learning}, year={2024} }
+
 Any problem can contact wanxinhang@nudt.edu.cn. Thanks.
 
